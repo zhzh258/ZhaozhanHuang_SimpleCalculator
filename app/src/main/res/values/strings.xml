@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">ZhaozhanHuang_SimpleCalculator</string>
+    <string name="app_name">ZhaozhanHuang-SimpleCalculator</string>
     <string name="plus">+</string>
     <string name="minus">-</string>
     <string name="times">x</string>
